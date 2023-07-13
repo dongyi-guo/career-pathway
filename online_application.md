@@ -1,4 +1,4 @@
-# Online Applications
+# How to bring up Online Applications
 
 * Common in an internship, placement & graduate recruitment
 * Designed to assess your suitability for a specific role or organisation

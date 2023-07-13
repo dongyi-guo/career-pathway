@@ -1,32 +1,16 @@
-# Bullets got from chat
+# Baskets of things
 
-* Usually you would show research of the organisation in your cover letter, this will be covered in the workshop today.
-
-* Yes, do apply even if you don't have all requirements. The criteria describe the ideal candidate. You will need to meet the essential criteria, but if you meet 60-70% it is probably worth applying. Good practice too!
-
-* Graduate programs can be found on CareerHub, Grad Connection and GradAustralia. Entry level graduate roles can be found on all sites.
+* Apply even if you don't have all requirements. The criteria describe the ideal candidate. You will need to meet the essential criteria, but if you meet 60-70% it is probably worth applying. Good practice too!
 
 * A preferred skill is not essential, but you are more likely to be short listed if you have it. What you don't know is the skills of your fellow applicants, so it is usually worth applying and talking up the skills, quals and experience you do have.
 
 * Your job as an applicant is to show how you're a good fit for the role and respond effectively to the criteria as well as communicate your enthusiasm for the role and the organisation. This can help alleviate concerns about being over qualified.
 
-* Information on resumes for HDR students: https://www.sydney.edu.au/careers/students/applying-for-jobs/how-to-write-a-resume/Tailoring-your-resume-as-an-HDR-student.html
-
-* Graduate programs are open to applicants from February of your final year of study. So start looking at the beginning of your final year. Some open mid-year, so important to keep looking and set up alerts on grad program sites. Graduate roles are open throughout the year, so you can start looking during your last semester. Remember to build your professional networks and experience to position yourself well.
-
-* Yes, address all selection criteria that you are able to respond to with evidence of quals, skills and experience.
-
-* Info on graduate jobs: https://www.sydney.edu.au/careers/students/finding-jobs/graduate-jobs.html
-
-* so it is better to not study further bc it creates an issue?
-  * Not at all, just know your reasons for studying and how that is helping you work towards your overall goals.
-
-* You have 0 relevant work experience and still doing uni with a few online courses done which everyone does. How do you differentiate yourself? 
- * If you are applying for a creative role, you may want to showcase some of your skills in the appearance of your resume. You do need to make sure the appearance doesn't overshadow the information so a recruiter can quickly see how you meet the criteria.
-
-* Check the Goinglobal Country Guides on CareerHub for information on resumes in different countries: https://careerhub.sydney.edu.au/s/careers-centre
+* Address all selection criteria that you are able to respond to with evidence of quals, skills and experience.
 
 * How to differentiate yourself? Volunteering, extra-curricular activities, join professional associations, interests (sports, music, etc). Important to show the relevance of your transferable skills to the role you are applying for, you can build these skills in a variety of contexts.
+
+* Ask for salary, they are obligated to provide this beforehand.
 
 * Resume and CV are interchangeable terms in Australia, this is your document outlining your skills, qualifications and experience. https://www.sydney.edu.au/careers/students/applying-for-jobs/how-to-write-a-resume.html
 
@@ -93,17 +77,6 @@
 
 * Best to submit documents as a word file to work best with applicant tracking systems.
 
-* CV360: https://sydney.careercentre.me/u/clvgtsyu
-
-* Book your consultation here: https://careerhub.sydney.edu.au/s/careers-centre
-
 * This may/may not be helpful but here's a LinkedIn course which provides good pointers in answering common interview questions https://www.linkedin.com/learning/expert-tips-for-answering-common-interview-questions?u=2196204
 
-* How long after graduation does the access to LinkedIn Learning last?
-  * I'm not sure, but I think so long as your Unikey is valid. There is a process to convert your digital access to graduate status - at least that's what happens for CareerHub. If in doubt, check with IT helpdesk.
-
 * https://www.reddit.com/r/LifeProTips/comments/gmh2la/lpt_when_interviewing_for_a_job_when_asked_the/
-
-* Usually they also are obliged to give you a range of salary, so do keep that in mind.
-
-* Negotiating salary: https://www.sydney.edu.au/careers/students/applying-for-jobs/interview-tips/negotiating-salary.html

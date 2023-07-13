@@ -1,3 +1,3 @@
 # Dongyi's Career Fair Note
 
-* Please, get a job.
+You will get there, just start.
